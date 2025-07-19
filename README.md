@@ -49,7 +49,7 @@ cd dalle-clone
 3. Setup Server
 cd server
 npm install
-# Create .env and add MONGODB_URI, OPENAI_API_KEY, CLOUDINARY credentials
+#Create .env and add MONGODB_URI, OPENAI_API_KEY, CLOUDINARY credentials
 npm start
 
 3. Setup Client
