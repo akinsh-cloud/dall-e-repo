@@ -42,17 +42,17 @@ Prerequisites
 -Cloudinary account (API key/secret)
 -OpenAI API Key
 
-1. Clone the repo
+1. Clone the repo :-
 git clone https://github.com/your-username/dalle-clone.git
 cd dalle-clone
 
-3. Setup Server
+3. Setup Server :-
 cd server
 npm install
 #Create .env and add MONGODB_URI, OPENAI_API_KEY, CLOUDINARY credentials
 npm start
 
-3. Setup Client
+3. Setup Client :-
 cd client
 npm install
 npm run dev
